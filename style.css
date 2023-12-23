@@ -1,0 +1,48 @@
+#pg1 {
+  background-color: #fbebeb;
+}
+#pg2{
+    background-color: white;
+}
+#pg3{
+  background-color: #f6faf5;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#cat {
+  width: 400px;
+  height: 400px;
+}
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 35px;
+}
+.btns {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  width: 50px;
+  height: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#no {
+  position: relative;
+}
+button:hover {
+  background-color: aqua;
+}
+#clothes{
+    margin-top: 50px;
+    width: 350px;
+    height: 350px;
+}
+#gng{
+  margin-top: 200px;
+  width: 350px;
+  height: 350px;
+}
